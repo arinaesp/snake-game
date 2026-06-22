@@ -2,7 +2,7 @@
 
 A classic Snake build with a few deliberate twists: speed ramps up with every apple, and the snake's color shifts through three hue tiers as it grows — calm blue-grey, into soft purple, into warm mauve — each darkening before handing off to the next.
 
-**[Play it live](#)** — [replace with your GitHub Pages link after deploying](https://arinaesp.github.io/snake-game/)
+**[Play it live](#)** — https://arinaesp.github.io/snake-game/
 
 ## Features
 
@@ -41,4 +41,4 @@ snake-game/
 
 ## Credit
 
-Built independently, with Claude Code assisting on implementation details (color logic, canvas rendering, UI polish) based on my direction and iteration.
+Built independently, with Claude Code assisting on implementation details (color logic, canvas rendering, UI polish).
